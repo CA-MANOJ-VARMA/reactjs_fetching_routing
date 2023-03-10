@@ -1,0 +1,35 @@
+.css-displayContainer {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  padding: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-ul-successview-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.css-list-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 30px;
+  width: 150px;
+  gap: 10px;
+}
+
+.css-retry-button {
+  background-color: #475569;
+  border-width: 0;
+  color: white;
+  font-weight: bold;
+}
+
+.css-link-container {
+  text-decoration: none;
+  color: black;
+}
